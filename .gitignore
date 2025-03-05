@@ -170,3 +170,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 quant_env/
+quant_env/
