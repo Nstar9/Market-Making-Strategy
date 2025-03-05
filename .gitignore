@@ -171,3 +171,4 @@ cython_debug/
 .pypirc
 quant_env/
 quant_env/
+quant_env/
